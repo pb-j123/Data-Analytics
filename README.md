@@ -1,2 +1,2 @@
-# Data-Science-Work
-Programs and files relevant to data science
+# Data-Analytics
+Programs and files implemented for development and testing of electro-mechical and polymeric systems.
